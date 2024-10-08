@@ -1,0 +1,1 @@
+fn(actix_web::web::Data<Arc<tokio::sync::Mutex<{type error}>, {type error}>>, actix_web::web::Data<Arc<tokio::sync::Mutex<{type error}>, {type error}>>) -> impl std::future::Future<Output = impl Responder> {calculate_arbitrage}

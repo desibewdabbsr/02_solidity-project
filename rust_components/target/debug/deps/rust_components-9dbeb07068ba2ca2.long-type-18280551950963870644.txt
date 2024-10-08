@@ -1,0 +1,1 @@
+fn(Data<{type error}>, Data<{type error}>, Data<{type error}>) -> impl std::future::Future<Output = impl Responder> {calculate_arbitrage}

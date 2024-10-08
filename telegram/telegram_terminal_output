@@ -1,0 +1,5 @@
+Test message
+console.log
+    Arbitrage executed: 0xdef
+
+      at ArbitrageBot.log [as handleArbitrageOpportunity] (src/ArbitrageBot.js:33:21)

@@ -1,0 +1,16 @@
+[package]
+name = "rust_components"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+thiserror = "1.0"
+ordered-float = "3.0"
+env_logger = "0.10.0"
+
+
+[lib]
+name = "rust_components"
+crate-type = ["cdylib"]
+

@@ -1,0 +1,85 @@
+
+# Solidity
+.node_modules
+build/
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Python
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.logs1
+*.logs2
+*.logs3
+*.logs4
+*.logs5
+
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packaging
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+# .env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
